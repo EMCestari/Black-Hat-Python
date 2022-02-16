@@ -1,0 +1,12 @@
+
+[dev]
+coverage==4.5.4
+ipython
+pytest
+pytest-cov
+pytest-xdist
+python-coveralls
+sphinx-autodoc-typehints
+sphinx_rtd_theme
+sphinxcontrib-napoleon
+twine

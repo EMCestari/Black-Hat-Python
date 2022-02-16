@@ -1,0 +1,7 @@
+[console_scripts]
+cap2hccapx = hashcat.cli:cap2hccapx
+hashcat = hashcat.cli:main
+kwp = hashcat.cli:kwp
+pp = hashcat.cli:pp
+pp64 = hashcat.cli:pp
+
