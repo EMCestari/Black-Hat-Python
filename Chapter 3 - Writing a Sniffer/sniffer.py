@@ -2,7 +2,7 @@ import socket
 import os
 
 # host to listen to
-HOST = '127.0.0.1'
+HOST = '192.168.56.1'
 
 
 def main():
